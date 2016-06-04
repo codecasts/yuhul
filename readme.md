@@ -1,6 +1,5 @@
 ## Laravel PHP Framework - Modularized Fork
 
-
 ### Additional Readme
 This Laravel Application fork is a easy start point using the **modularized concepts** and **Domain-Driven Development** highly endorsed by **CODECASTS**.
 
